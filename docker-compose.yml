@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+  rabbitmq:
+    container_name: "rabbitmq"
+    image: rabbitmq:3.9-management-alpine
+    environment:
+      - RABBITMQ_DEFULT_USER=guest
+      - RABBITMQ_DEFULT_PASS=guest
+    ports:
+      # RabbitMQ instance
+      - '5672:5672'
+      # Web interface
+      - '15672:15672'

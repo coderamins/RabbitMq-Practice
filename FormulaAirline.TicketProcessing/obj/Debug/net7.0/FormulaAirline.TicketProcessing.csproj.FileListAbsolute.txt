@@ -1,0 +1,17 @@
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+H:\developing\dotnetcoreapps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+H:\Developing\DotnetCoreApps\AirlineV2\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+H:\Developing\DotnetCoreApps\AirlineV2\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
